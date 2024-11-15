@@ -1,2 +1,5 @@
-This project analyzes Olympic data to help Kellogg’s choose the best sport and athlete for sponsorship, providing insights on trends and athlete profiles to align with Kellogg’s brand goals.
+Overview
+This project involves a comprehensive analysis of historical Olympic data to assist Kellogg's in selecting the best sports and athletes for sponsorship in the upcoming Olympic Games. The analysis focuses on identifying trends, athlete performance, and audience appeal.
+
+
 
